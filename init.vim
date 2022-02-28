@@ -10,6 +10,7 @@ Plug 'mxw/vim-jsx'
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 Plug 'mattn/emmet-vim'
 Plug 'vim-syntastic/syntastic'
+Plug 'elixir-editors/vim-elixir'
 
 Plug 'preservim/nerdtree' 
 Plug 'vim-airline/vim-airline'
@@ -41,7 +42,7 @@ highlight link javaScopeDecl Statement
 highlight link javaType Type
 highlight link javaDocTags PreProc
 let g:javascript_plugin_flow = 1
-let g:airline_powerline_fonts = 1
+let g:airline_powerline_fonts = 0
 
 let mapleader="\<space>"
 nnoremap <leader>; A;<esc>
