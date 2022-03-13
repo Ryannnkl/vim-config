@@ -1,5 +1,7 @@
 # Configurações do meu vim
 
+![screenshot](./screenshots/Captura%20de%20tela%20de%202022-03-13%2014-04-22.png)
+
 ### configuração
 
 - instale o neovim
