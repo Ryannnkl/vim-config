@@ -21,8 +21,7 @@
 - arquivo de configuração
 
 ```
-  cd ~/.config/
-  git clone https://github.com/Ryannnkl/vim-config.git nvim
+  git clone https://github.com/Ryannnkl/vim-config.git ~/.config/nvim
 ```
 
 # startup
