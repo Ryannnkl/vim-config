@@ -2,6 +2,7 @@ call plug#begin()
 Plug 'morhetz/gruvbox'
 Plug 'arcticicestudio/nord-vim'
 Plug 'dracula/vim'
+Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 Plug 'vim-airline/vim-airline-themes'
 
 Plug 'pangloss/vim-javascript'
@@ -18,7 +19,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'ap/vim-css-color' 
 call plug#end()
 
-colorscheme dracula 
+colorscheme tokyonight 
 set termguicolors
 set background=dark
 set encoding=utf-8
