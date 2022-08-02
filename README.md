@@ -24,7 +24,7 @@
   git clone https://github.com/Ryannnkl/vim-config.git ~/.config/nvim
 ```
 
-# startup
+# start
 
 ```bash
   nvim
